@@ -1,6 +1,8 @@
 # Safe Pointing - Standalone Pointing System for RedM
 
-![Safe Pointing Demo](https://files.catbox.moe/mg9jmk.gif)
+<p align="center">
+  <img src="https://files.catbox.moe/mg9jmk.gif" alt="Safe Pointing Demo">
+</p>
 
 A high-performance, **STANDALONE** script for RedM that allows players to point where they are looking. This resource features smooth network synchronization and intelligent camera-based raycasting to enhance roleplay immersion.
 
